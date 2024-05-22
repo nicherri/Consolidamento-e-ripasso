@@ -1,0 +1,14 @@
+body{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    top: 18em;
+}
+
+button{
+    background-color: white;
+    padding: 7px 13px;
+    border: solid 1px black;
+    border-radius: 20px;
+}
